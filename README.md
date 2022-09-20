@@ -1,6 +1,5 @@
 # 中城天龙
-韦浩然
-- name: Setup Java JDK
+- name: 韦浩然
   uses: actions/setup-java@v3.5.0
   with:
     # The Java version to set up. Takes a whole or semver Java version. See examples of supported syntax in README file
